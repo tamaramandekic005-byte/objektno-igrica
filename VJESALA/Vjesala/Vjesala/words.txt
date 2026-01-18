@@ -1,0 +1,3 @@
+gradovi:stockholm,bratislava,singapur,saint petersburg,bruxelles,podgorica,helsinki,new orleans,rio de janeiro,salt lake city
+predmeti:projektor,ventilator,blender,laboratorijska oprema,tvrdi disk,flomaster,privjesak,daljinski za televiziju,drvena kuhinjska polica
+zivotinje:nilski konj,krokodil,majmun,crvena panda,sibirski tigar,crni nosorog,velika bijela psina,patuljasti morski konjic
